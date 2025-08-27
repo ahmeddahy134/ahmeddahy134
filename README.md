@@ -9,8 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddahy134&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/00xCanelo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@00xCanelo) 
-           
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmeddahy1/)
 ---
 ## 🧰 Tech Stack
 
