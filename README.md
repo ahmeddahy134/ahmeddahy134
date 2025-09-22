@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Dahy</h1>
-<h3 align="center">A passionate Full Stack .NET Developer and Cybersecurity Enthusiast from Egypt</h3>
+<h3 align="center">A passionate Software Engineer and Cybersecurity Enthusiast</h3>
 
 
 
