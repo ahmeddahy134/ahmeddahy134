@@ -87,14 +87,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahmeddahy134&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmeddahy134/ahmeddahy134/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmeddahy134/ahmeddahy134/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmeddahy134/ahmeddahy134/output/pacman-contribution-graph.svg">
-</picture>
-
----
 <div align="center">
   <h2>Live Visitors</h2>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmeddahy134.ahmeddahy134" alt="Visitor Badge"/>
